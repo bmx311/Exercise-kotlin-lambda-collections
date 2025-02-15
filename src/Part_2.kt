@@ -1,4 +1,4 @@
-//filtering the letter J instead of A
+//filtering the letter J instead of A   
 fun main(){
     val namesList = listOf("Johnathan", "Dio", "Joseph", "Giorno", "Josuke", "Diego")
 
